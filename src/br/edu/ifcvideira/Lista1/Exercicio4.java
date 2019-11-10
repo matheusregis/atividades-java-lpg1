@@ -1,3 +1,8 @@
+/*
+4 - Escreva um programa em JAVA para ler o raio de um círculo, calcular e
+escrever a sua área.
+ */
+
 package br.edu.ifcvideira.Lista1;
 import java.util.Scanner;
 

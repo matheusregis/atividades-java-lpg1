@@ -1,3 +1,8 @@
+/*
+2 - Faça um programa em Java que lê três números reais do teclado e apresenta
+na tela a média destes números.
+ */
+
 package br.edu.ifcvideira.Lista1;
 
 import java.util.Scanner;

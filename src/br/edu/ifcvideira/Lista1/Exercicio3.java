@@ -1,3 +1,9 @@
+/*
+3 - Faça um programa em JAVA que pede para o operador digitar o nome de uma
+pessoa, sua idade e seu salário (double). Em seguida o programa deve imprimi-los
+na tela.
+
+ */
 package br.edu.ifcvideira.Lista1;
 
 import java.util.Scanner;

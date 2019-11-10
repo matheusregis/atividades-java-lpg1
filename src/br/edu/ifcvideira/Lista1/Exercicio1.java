@@ -1,3 +1,6 @@
+/*1 – Faça um programa em JAVA para ler dois números inteiros, x e y, e imprimir o
+quociente e o resto da divisão inteira entre eles.
+*/
 package br.edu.ifcvideira.Lista1;
 
 import java.util.Scanner;

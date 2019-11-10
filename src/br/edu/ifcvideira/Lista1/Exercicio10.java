@@ -1,3 +1,8 @@
+/*
+10 - Faça um algoritmo para calcular a área superficial de um
+cilindro (2*pi*r*h)
+ */
+
 package br.edu.ifcvideira.Lista1;
 
 import java.util.Scanner;

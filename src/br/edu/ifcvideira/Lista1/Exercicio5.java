@@ -1,3 +1,9 @@
+/*
+5 - Escreva um programa em JAVA para ler uma temperatura em graus
+Fahrenheit, calcular e escrever o valor correspondente em graus Celsius.
+
+ */
+
 package br.edu.ifcvideira.Lista1;
 
 import java.util.Scanner;
