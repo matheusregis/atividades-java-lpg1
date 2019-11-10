@@ -1,3 +1,16 @@
+/*
+ * 10 - Faça um programa em JAVA para ler inicialmente o nome, o preço, a
+quantidade e o código de 10 produtos e armazenar estes itens em vetores. Cada
+produto tem um código entre 0 e 9 e os códigos são únicos. Depois que os dados
+dos produtos forem armazenados, perguntar o código de um produto, perguntar se
+foi venda ou compra e a quantidade (vendida / comprada) e alterar os vetores
+correspondentes. Continuar perguntando até que o usuário informe um código 
+composto por um número negativo. Após terminada a movimentação, mostrar a
+lista de produtos com o código, descrição, preço unitário e quantidade em estoque
+e o valor total do estoque de cada item. Imprimir também o valor total do estoque
+para todos os itens juntos.
+
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Scanner;

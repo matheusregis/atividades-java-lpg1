@@ -1,3 +1,8 @@
+/*
+ * 1 – Faça um programa em JAVA que cria um vetor com 5 elementos inteiros, lê 5
+números do teclado, armazena os números no vetor e imprime o vetor na ordem
+inversa.
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Scanner;

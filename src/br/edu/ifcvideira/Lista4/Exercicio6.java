@@ -1,3 +1,9 @@
+/*
+ * 6 – Faça um programa em JAVA que leia um vetor de 3 posições contendo os
+caracteres de um numero. Em seguida escreva esse numero por extenso
+(principais casos).
+
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Scanner;

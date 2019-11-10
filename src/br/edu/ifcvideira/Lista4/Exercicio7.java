@@ -1,3 +1,8 @@
+/*
+ * 7 - Determinada empresa vende 10 artigos diferentes. Para cada artigo, a
+empresa o identifica com um código numérico e o preço de venda. Faça um
+algoritmo para exibir o código e o preço dos 3 artigos mais caros da empresa.
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Random;

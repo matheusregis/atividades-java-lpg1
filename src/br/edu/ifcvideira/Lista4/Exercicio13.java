@@ -1,3 +1,10 @@
+/*
+ * Matrizes
+13 - Faça um programa em JAVA que declare uma matriz 10X10 posições e
+preencha os elementos com os valores da soma do índice para aquele elemento,
+de forma que, por exemplo, o elemento [7][9] valha 16. E uma outra também
+10X10 que seja completada pela multiplicação de i e j. Ex: [7][8] = 56.
+ */
 package br.edu.ifcvideira.Lista4;
 
 public class Exercicio13 {

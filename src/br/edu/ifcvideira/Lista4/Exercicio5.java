@@ -1,3 +1,7 @@
+/*
+ * 5 - Faça um programa em JAVA que leia um vetor de 40 posições e atribua valor 0
+para todos os elementos que possuírem valores negativos.
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Random;

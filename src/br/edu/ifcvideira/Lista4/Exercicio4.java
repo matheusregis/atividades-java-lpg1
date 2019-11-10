@@ -1,3 +1,9 @@
+/*
+ * 4 - Faça um programa em JAVA que leia um vetor de 20 posições e em seguida
+um valor X qualquer. Seu programa devera fazer uma busca do valor de X no
+vetor lido e informar a posição(ões) em que foi encontrado ou se não foi
+encontrado.
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Random;

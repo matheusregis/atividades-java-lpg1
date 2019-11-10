@@ -1,3 +1,10 @@
+/*
+ * 9 - Faça um programa em JAVA que irá ler 35 salários e 35 códigos de
+identificação de empregados. Estes dados devem ficar armazenados em vetores
+diferentes. Após lidos os 35 dados pares de dados, mostrar quais são os códigos
+dos funcionários que ganham acima de R$ 880,00.
+
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Random;

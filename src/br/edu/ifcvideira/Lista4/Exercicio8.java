@@ -1,3 +1,9 @@
+/*
+ * 8 - Faça um programa em JAVA que leia um vetor de 50 posições e o compacte,
+ou seja, elimine as posições com valor zero avançando uma posição, com os com
+os valores subsequentes do vetor. Dessa forma todos “zeros” devem ficar para as
+posições finais do vetor.
+ */
 package br.edu.ifcvideira.Lista4;
 
 import java.util.Random;
