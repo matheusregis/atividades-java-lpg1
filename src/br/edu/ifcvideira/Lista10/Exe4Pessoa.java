@@ -1,3 +1,13 @@
+/*
+ * 4 - Para um sistema de agenda em que são cadastrados contatos pede-se para desenvolver:
+Classe pessoa;
+Classe colega_de_trabalho (Herda características de pessoa) + setor, etc;
+Mensagem de assinatura de e-mail: Att. Fulano de tal.
+Classe amigo (Herda características de pessoa) + telefone_pessoal, etc;
+Mensagem de assinatura de e-mail: Abraços. Fulano de tal.
+Classe parente (Herda características de pessoa) + parentesco, etc;
+Mensagem de assinatura de e-mail: Até mais. Fulano de tal.
+ */
 package br.edu.ifcvideira.Lista10;
 
 public class Exe4Pessoa {

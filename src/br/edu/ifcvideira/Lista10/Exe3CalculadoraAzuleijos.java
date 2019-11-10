@@ -1,3 +1,13 @@
+/*
+ * 3 – Faça uma calculadora que mostre quantos azulejos são necessários para azulejar uma
+parede. 
+É necessário conhecer a altura da parede (AP), a sua largura (LP), e a altura do azulejo (A)
+e sua largura (LA). Leia os dados através do teclado.
+O azulejo pode ser quadrado: L*L = Área
+O azulejo pode ser retangular: H*L= Área
+O azulejo pode ser triangular de lados iguais: L*L/2 = Área
+O azulejo pode ser triangular de lados diferentes: H*L/2 = Área
+ */
 package br.edu.ifcvideira.Lista10;
 
 public class Exe3CalculadoraAzuleijos {

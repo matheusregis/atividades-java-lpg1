@@ -1,3 +1,22 @@
+/*
+ * 1 - Implemente uma classe computador com 4 atributos (Placa mãe, Processador, HD,
+Memória).
+a) Crie a classe notebook, e a classe desktop que herda características da classe
+computador;
+b) Para calcular o valor do computador é necessário levar em conta se é notebook
+(carregador, pasta, etc.) ou desktop (estabilizador, teclado, etc), para isso implemente
+métodos que ajudem na impressão da
+Nota fiscal como:
+Volumes: (Notebook) 1, (Desktop) 4;
+Garantia: (Notebook) 1 ano, (Desktop) 2 anos; - Caso o cliente solicitar garantia estendida
+acrescentar 1 ano;
+Valor: O cliente pode também escolher por uma placa de vídeo (off-board) ou não, caso
+opte pelo modelo 1 acrescentar, 600,00 ao valor, modelo 2 acrescentar 900,00 e modelo 3
+acrescentar 1200,00. (Caso o cliente solicite garantia estendida acrescentar 12% ao valor se
+for notebook e 10% se for desktop);
+c) Ao final da configuração, imprimir as características do produto adquirido e valor total
+do computador.
+ */
 package br.edu.ifcvideira.Lista10;
 
 public class Ex1Computador {
