@@ -1,3 +1,10 @@
+/*
+ * 9 – Foi feita uma pesquisa entre os habitantes de uma região. Foram coletados os
+dados de idade, sexo (M/F) e salário. Faça um programa em JAVA que calcule e
+mostre: A média dos salários; A maior e a menor idade; A quantidade de mulheres
+com salário até R$ 2000,00; Finalize a entrada de dados ao ser digitada uma
+idade negativa. 
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

@@ -1,3 +1,7 @@
+/*
+ * 6 - Escreva um programa em JAVA que lê um número inteiro do teclado e imprime
+todos os seus divisores de resto 0.
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

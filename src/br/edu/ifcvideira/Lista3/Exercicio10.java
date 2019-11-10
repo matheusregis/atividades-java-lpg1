@@ -1,3 +1,10 @@
+/*
+ * 10 - Um determinado material radioativo perde metade de sua massa a cada 50
+segundos. Dada a massa inicial, em gramas, fazer um programa em JAVA que
+calcule o tempo necessário para que essa massa se torne menor que 0,5 gramas. 
+	O programa deve escrever a massa inicial, a massa final e o tempo calculado em
+horas, minutos e segundos.
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

@@ -1,3 +1,9 @@
+/*
+ * 1 – Faça um programa em JAVA que lê dois números inteiros do teclado, testa se
+o primeiro é menor que o segundo, se for imprime todos os números do intervalo
+entre eles.
+
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

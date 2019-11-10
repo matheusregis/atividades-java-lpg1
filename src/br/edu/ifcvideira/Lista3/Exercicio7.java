@@ -1,3 +1,10 @@
+/*
+ * 7 - Faça um programa em JAVA que deve ficar lendo uma letra por vez do teclado
+até que o operador digite a letra x. Após o operador digitar x o programa deve
+apresentar na tela o número de vezes que o operador digitou dois caracteres
+iguais em sequencia.
+
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

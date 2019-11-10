@@ -1,3 +1,11 @@
+/*
+ * 4 - Faça um programa em JAVA para ler a altura e o sexo (feminino, masculino)
+de 10 pessoas. Calcular e escrever:
+- A maior e a menor altura;
+- A média de altura das mulheres;
+- A porcentagem de homens;
+
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

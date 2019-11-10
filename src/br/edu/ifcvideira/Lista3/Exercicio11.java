@@ -1,3 +1,16 @@
+/*
+ * 11 - Um caixa eletrônico opera com notas de 50, 10, 5 e 2. Como medida de
+segurança, a cada vez que o cliente deseja sacar dinheiro, o valor é dado de
+forma a fornecer um pequeno volume de notas (supondo que o cliente sempre
+esteja dentro do seu limite).
+Esta medida é feita para que a quantidade sacada não “faça muito volume”
+quando guardada pelo cliente. Por exemplo, se o cliente quiser sacar R$166,00
+não são dadas 83 notas de 2; são dadas 3 notas de 50, 1 nota de 10 e 3 notas de
+2. Assim, a resposta a ser impressa é 3 1 0 3.
+Faça um programa em JAVA que leia a quantia (valor inteiro positivo) a ser
+sacada e imprima as quantidades de notas de 50, 10, 5 e 2 a serem fornecidas
+aos clientes.
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

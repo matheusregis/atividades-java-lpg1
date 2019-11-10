@@ -1,3 +1,7 @@
+/*
+ * 2 - Faça um programa em JAVA que lê um número real do teclado e calcula o
+fatorial deste número. (ex: 5! é igual a 5 * 4 * 3 * 2 * 1 = 120).
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

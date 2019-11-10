@@ -1,3 +1,11 @@
+/*
+ * 13 (Vídeo Aula 5) - Faça um algoritmo que leia o código do jogador (1 ou 2) que
+ganhou o ponto em uma partida de tênis de mesa, e responda quem ganha a
+partida. A partida chega ao final se um dos jogadores chega a 11 pontos e a
+diferença de pontos entre os jogadores é maior ou igual a dois. Caso contrário,
+ganha aquele que, com mais de 11 pontos, consiga colocar uma vantagem de dois
+pontos sobre o adversário. 
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;

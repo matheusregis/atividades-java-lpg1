@@ -1,3 +1,12 @@
+/*
+ * 14 (Vídeo Aula 6) - Em um campeonato de futebol, cada time tem uma lista oficial
+de 23 jogadores. Cada time prepara uma lista contendo o peso e a idade de cada
+um dos seus jogadores. Os 40 times que participam do torneio enviam essas listas
+para o CPD da confederação. Faça um Programa que apresente as seguintes
+informações:
+• peso médio e a idade média de cada um dos times;
+• peso médio e a idade média de todos os participantes
+ */
 package br.edu.ifcvideira.Lista3;
 
 import java.util.Scanner;
