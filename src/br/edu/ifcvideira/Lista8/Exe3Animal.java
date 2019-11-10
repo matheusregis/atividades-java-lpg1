@@ -1,3 +1,7 @@
+/*
+ * 3 – Implemente as classes do diagrama abaixo, insira valores e os imprima:
+
+ */
 package br.edu.ifcvideira.Lista8;
 
 public abstract class Exe3Animal {

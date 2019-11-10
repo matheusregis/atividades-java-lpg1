@@ -1,3 +1,8 @@
+/*
+ * 2 – Implemente uma nova versão do Exercício 1 agora utilizando métodos
+polimórficos para a mesma estrutura:
+
+ */
 package br.edu.ifcvideira.Lista8;
 
 import javax.swing.JOptionPane;

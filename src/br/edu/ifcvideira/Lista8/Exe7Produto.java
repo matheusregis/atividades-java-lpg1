@@ -1,3 +1,13 @@
+/*
+ * 7 – Crie uma classe produto com os atributos, “código”, “descrição” e “valor”, com
+um método de impressão desses produtos:
+a. Crie a classe alimento que herda produto com o atributo “tipo” e um método
+polimórfico ao método de impressão da classe mãe;
+b. Crie a classe eletrodoméstico que herda produto e possui o atributo “voltagem”
+e um método polimórfico ao método de impressão da classe mãe;
+c. Crie a classe roupa que herda produto e possui os atributos “tamanho” e “cor” e
+um método polimórfico ao método de impressão da classe mãe;
+ */
 package br.edu.ifcvideira.Lista8;
 
 public abstract class Exe7Produto {
