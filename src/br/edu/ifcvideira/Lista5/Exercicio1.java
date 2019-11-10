@@ -1,3 +1,9 @@
+/*
+ * 1 – Faça um programa utilizando arrayList que permita: inserir alunos de uma
+escola, consultar se um aluno específico está na lista, inserir alunos no meio da
+lista em uma posição específica, remover qualquer aluno que está na lista e
+consultar a qualquer momento.
+ */
 package br.edu.ifcvideira.Lista5;
 
 import java.util.ArrayList;

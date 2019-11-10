@@ -1,3 +1,8 @@
+/*
+ * 5 - Implemente um programa que solicite ao usuário uma frase e inverta a ordem
+das palavras. Ex: Frase: aula até meio dia. Exiba: dia meio até aula. Monte a nova
+String, utilizando a classe StringBuilder e o seu método append().
+ */
 package br.edu.ifcvideira.Lista5;
 
 import java.util.Scanner;

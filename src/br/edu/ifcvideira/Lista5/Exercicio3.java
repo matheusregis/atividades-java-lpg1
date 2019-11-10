@@ -1,3 +1,8 @@
+/*
+ * 3 - Faça um programa que receba uma única String de números inteiros
+separados por ’;’(ponto e vírgula). Apresente o maior e o menor número dessa
+String.// Dica: utilize o método split() da classe String.
+ */
 package br.edu.ifcvideira.Lista5;
 
 import java.util.ArrayList;

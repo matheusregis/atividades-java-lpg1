@@ -1,3 +1,9 @@
+/*
+ * 6 - Implemente um programa que solicite ao usuário uma frase. Apresente a frase
+informada pelo usuário substituindo todos os caracteres ’a’ por ’*’. Ex: Frase: Ana
+foi a boate.
+Exiba: An* foi * bo*te. Dica: utilize os métodos da classe StringBuilder
+ */
 package br.edu.ifcvideira.Lista5;
 
 import java.util.Scanner;
