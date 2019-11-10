@@ -1,3 +1,23 @@
+/*
+ * 6 - Uma cooperativa de leite paga, a cada um de seus produtores cooperados, por
+volume de leite entregue diariamente. Devido à grande quantidade de fraudes
+como a adição de água no leite, por exemplo) e erros na leitura do volume dos
+tarros de leite, a cooperativa começará a pagá-los por massa. Para isso comprou
+uma balança e um densímetro e necessitará de um programa para cálculo. Na
+balança serão jogados e misturados os conteúdos de todos os tarros de leite de
+um determinado produtor. A balança informará a massa e o densímetro a
+densidade. O programa receberá, via teclado, esses dois dados mais o preço por
+kg de leite vigente naquele dia. Após isto, o programa deverá apresentar na tela:
+- Os valores digitados;
+- O volume de leite calculado (volume = massa / densidade);
+- O valor em Reais a ser pago a aquele cooperado; 
+- Classificar o leite do cooperado dentro de uma das 3 faixas de densidade
+existentes:
+- Categoria I (abaixo de 1,14 kg/l);
+- Categoria II (entre 1,14 e 1,20 kg/l);
+- Categoria III (acima de 1,20 kg/l);
+
+ */
 package br.edu.ifcvideira.Lista2;
 
 import java.util.Scanner;

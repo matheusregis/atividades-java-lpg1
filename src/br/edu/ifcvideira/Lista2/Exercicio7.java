@@ -1,3 +1,25 @@
+/*
+ * 7 - A companhia telefônica “Tchau” deseja calcular o valor das contas telefônicas
+mensais de seus assinantes através do computador. A cobrança de seus serviços
+é feita obedecendo ao seguinte critério:
+Tarifa básica: residencial – R$ 10,20;
+Comercial – R$ 19,50
+Ligações de serviço local (para fixo ou celular): R$ 0,50 o minuto
+Serviço de interurbano (para fixo ou celular): R$ 1,10 o minuto
+Em cima do valor total da conta, é adicionada uma taxa de 30% para o
+Fundo Nacional de Telecomunicações (FNT).
+Então:
+Leia um número de telefone e também as seguintes informações:
+tipo do telefone: 1 se for residencial, 2 se comercial e qualquer outro
+número encerra o algoritmo avisando que o tipo de telefone é inválido;
+número de minutos registrados para chamadas locais;
+ total de minutos registrados para interurbano;
+Depois dos dados de entrada o programa deverá calcular o valor da conta e
+mostrar o detalhamento para cada tarifa (tipo de linha, local para fixo e
+celular, interurbano para fixo e celular, valor da conta, valor da taxa para a
+FNT, valor final da conta).
+
+ */
 package br.edu.ifcvideira.Lista2;
 
 import java.util.Scanner;

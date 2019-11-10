@@ -1,3 +1,10 @@
+/*
+ * 10 (Vídeo Aula 3) - Dados os nomes de 5 municípios de uma região e suas
+temperaturas médias, emitir o seguinte relatório:
+ a) temperatura média da região;
+ b) número de municípios com temperatura média inferior a 10ºC;
+ c) nome dos municípios que apresentam temperatura média superior a 30ºC.
+ */
 package br.edu.ifcvideira.Lista2;
 
 import java.util.Scanner;
