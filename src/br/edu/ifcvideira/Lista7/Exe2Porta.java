@@ -1,3 +1,12 @@
+/*
+ * 2 - Faça uma classe Porta com os seguintes atributos: estado (boolean –
+aberta/fechada), cor, dimensaoX, dimensaoY e dimensaoZ. Esta classe deve
+representar os comportamentos: abrir a porta, fechar a porta, pintar e também
+verificar se a porta está aberta (atributo estado da porta estaAberta()) . Em
+seguida em outra classe (main), crie 1 porta, que possa ser aberta ou fechada e
+pintada de diversas cores, alterar suas dimensões e usar o método estaAberta
+para verificar se está aberta.
+ */
 package br.edu.ifcvideira.Lista7;
 
 import javax.swing.JOptionPane;

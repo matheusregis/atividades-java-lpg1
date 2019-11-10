@@ -1,3 +1,9 @@
+/*
+ * 3 - Defina uma classe Professor com os dados: nome do professor, nome do
+departamento, número de registro e data de admissão. Crie uma classe main que
+permita manipular os dados dos professores.
+
+ */
 package br.edu.ifcvideira.Lista7;
 
 public class Exe3Professor {

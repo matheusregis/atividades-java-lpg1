@@ -1,3 +1,10 @@
+/*
+ * 1 - Faça uma classe Pessoa, que possui os seguintes atributos: nome e idade. A
+cada aniversário a idade desta pessoa aumenta um ano. Faça um método que
+represente este fato (ex: void fazAniversario()). Em seguida crie a classe main que
+deve criar 3 pessoas com nome e idade inicial, incremente suas idades utilizando
+o método fazAniversário, em seguida imprima o nome e idade destas pessoas.
+ */
 package br.edu.ifcvideira.Lista7;
 
 public class Exe1Pessoa {

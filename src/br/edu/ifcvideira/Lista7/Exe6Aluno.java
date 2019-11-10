@@ -1,3 +1,10 @@
+/*
+ * 6 - Crie uma classe chamada de Aluno, esta classe tem os seguintes atributos:
+matricula, nome, e-mail, curso, fone, cel e endereço. Esta classe deve conter os
+getters e setters, além do construtor padrão (vazio), mais um construtor que
+receba todos os atributos como parâmetros. Crie uma classe main, na qual o
+usuário possa cadastrar um aluno pelas duas maneiras.
+ */
 package br.edu.ifcvideira.Lista7;
 
 public class Exe6Aluno {

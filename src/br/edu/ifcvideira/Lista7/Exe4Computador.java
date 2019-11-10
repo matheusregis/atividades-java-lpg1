@@ -1,3 +1,15 @@
+/*
+ * 4 - Escreva uma classe chamada Computador, que encapsule atributos que
+definam a configuração da máquina (tipo de processador, memória RAM, tamanho
+do disco rígido e tamanho do monitor). Esta classe deve ter um método
+calculaPreco, que calcule o preço do computador como sendo a soma do custo de
+seus componentes:
+Gabinete + Placa-mãe + Fonte: R$900.
+Opções de processadores: 3,3Ghz a R$250, 3,5Ghz a R$310, 3,9Ghz a R$620
+Opções de memória: 2, 4, 8 ou 16Gb, cada 1Gb custa R$150.
+Opções de disco rígido: 500 Gb a R$400, 1 Tb a R$600, 2 Tb a R$800.
+Opções de monitor: 17 polegadas a R$390, 19 polegadas a R$520.
+ */
 package br.edu.ifcvideira.Lista7;
 
 import javax.swing.JOptionPane;
