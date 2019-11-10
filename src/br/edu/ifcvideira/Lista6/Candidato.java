@@ -1,3 +1,14 @@
+/*
+ * 5 - Defina uma classe para representar um candidato a uma eleição, com atributos
+para armazenar o nome do candidato e o número de votos, ambos privados.
+Defina um método de acesso para cada atributo e um método para incrementar o
+número de votos do candidato.
+ Crie um método main que:
+ Instancie 3 objetos para candidatos distintos;
+ Possua um menu para recebimento dos votos para cada um dos
+candidatos;
+ Finalize a eleição mostrando seu resultado.
+ */
 package br.edu.ifcvideira.Lista6;
 
 public class Candidato {

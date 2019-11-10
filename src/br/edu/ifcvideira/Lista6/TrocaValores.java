@@ -1,3 +1,13 @@
+/*
+ * 2 – Defina uma classe em Java, que:
+ Crie dois atributos, n1 e n2;
+ Encapsule os atributos;
+ Crie um método que troque os valores entre os atributos n1 e n2;
+ Crie um método main que:
+ Atribua valor aos atributos n1 e n2;
+ Chame o método que altera os valores;
+ Mostra os valores dos atributos;
+ */
 package br.edu.ifcvideira.Lista6;
 
 public class TrocaValores {
