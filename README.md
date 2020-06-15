@@ -2,9 +2,6 @@
  Lista de Exercicios Java do curso de Ciência da Computação - IFC Videira - Santa Catarina
 </h1>
 <blockquote align="center">Disciplina LPGI.</blockquote>
-<p>
-    Acabei fazendo somente um commit com todos os exercícios, pois ainda não utilizava o git para controle de meus exercícios.
-</p>
 
 <h2 align="center">Entendendo as Listas</h2>
 <p>
